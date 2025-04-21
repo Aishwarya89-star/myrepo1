@@ -12,8 +12,8 @@ public class ConstructorChild extends ConstructorParent {
 	public ConstructorChild(int a,int b) {
 		
 		super(2,3);
-		int c=a+b;
-		System.out.println(c);
+		//int c=a+b;
+		//System.out.println(c);
 		
 		
 	}
